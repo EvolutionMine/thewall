@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it."
+title: "Evolution Mine — The Wall (Executive Summary + Evidence)"
+authors:
+  - family-names: Stevens
+    given-names: Eric
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if you have one
+version: "1.0.0"
+date-released: "2025-09-22"
+repository-code: "https://github.com/EvolutionMine/thewall"
+license: "CC-BY-4.0"
+type: dataset
+keywords: [hemp, bamboo, bioeconomy, petrochemical, evidence wall, policy]
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.xxxxxx"   # replace after first release
