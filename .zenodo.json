@@ -1,0 +1,11 @@
+{
+  "title": "Evolution Mine — The Wall (Executive Summary + Evidence)",
+  "creators": [{"name": "Stevens, Eric", "orcid": ""}],
+  "description": "Executive summary (10 pages) and Evidence Wall CSV backing key claims in Evolution Mine.",
+  "keywords": ["hemp","bamboo","bioeconomy","petrochemical","evidence wall","policy"],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "related_identifiers": [
+    {"relation": "isSupplementTo", "identifier": "https://github.com/EvolutionMine/thewall"}
+  ]
+}
