@@ -13,4 +13,4 @@ type: dataset
 keywords: [hemp, bamboo, bioeconomy, petrochemical, evidence wall, policy]
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.xxxxxx"   # replace after first release
+    value: "10.5281/zenodo.17179859"  
