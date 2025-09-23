@@ -1,6 +1,0 @@
-mkdir -p docs/defensive-publications/bamboo-perimeter
-# drop the four content files into that folder + put .zenodo.json and CITATION.cff at repo root
-git add docs/defensive-publications/bamboo-perimeter/* .zenodo.json CITATION.cff
-git commit -m "Bamboo perimeter defensive publication v1.1.0"
-git tag v1.1.0
-git push && git push --tags
