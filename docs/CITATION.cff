@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this defensive publication, please cite it."
+title: "Defensive Publication: Bamboo Perimeter Wind/Sunbreak System for Hemp"
+authors:
+  - family-names: Stevens
+    given-names: Eric
+    affiliation: Evolution Mine
+    orcid: ""
+type: report
+license: CC0-1.0
+keywords:
+  - bamboo windbreak
+  - shelterbelt
+  - hemp
+  - microclimate
+  - biochar
+  - MRV
+  - water conservation
+date-released: 2025-09-23
+version: "1.1.0"
+repository-code: "https://github.com/EvolutionMine/EvolutionMine-docs"
+doi: ""  # fill in after Zenodo publishes

@@ -1,0 +1,35 @@
+{
+  "title": "Defensive Publication: Bamboo Perimeter/Wind-Sunbreak System for Hemp",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "A reproducible \u201cliving perimeter\u201d method using clumping bamboo shelterbelts around hemp fields to moderate wind and sun, reduce lodging and evapotranspiration, and increase yield stability in North Texas (USDA 8a/8b). Includes belt geometry, species selection, containment, irrigation, soil program, and MRV protocol; with plan-view and cross-section figures.\n\nLicense: CC0 1.0 (public-domain dedication) for this defensive publication.\n\nFiles included in this snapshot:\n- Bamboo_Perimeter_Defensive_Publication_Filled_v1.1.0.md\n- Bamboo_Perimeter_Defensive_Publication.pdf\n- Figure_A_Plan_View.png\n- Figure_B_Cross_Section.png",
+  "creators": [
+    {
+      "name": "Stevens, Eric",
+      "affiliation": "Evolution Mine",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "bamboo windbreak",
+    "shelterbelt",
+    "hemp",
+    "microclimate",
+    "biochar",
+    "MRV",
+    "water conservation",
+    "Dallas",
+    "Farmersville"
+  ],
+  "access_right": "open",
+  "license": "cc-zero",
+  "version": "1.1.0",
+  "notes": "Defensive publication\u2014intended to create prior art and prevent patent monopolization of substantially similar field designs and kits.",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/EvolutionMine/EvolutionMine-docs",
+      "scheme": "url"
+    }
+  ]
+}
